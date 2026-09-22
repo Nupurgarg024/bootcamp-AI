@@ -1,0 +1,16 @@
+Name,Age,Gender,Marks,City,Email,Attendance,Course
+Rahul Sharma,20,Male,85,Delhi,rahul@gmail.com,92,CSE
+Priya Singh,21,Female,90,Noida,priya@gmail.com,88,AIML
+Aman Kumar,20,Male,,Gurgaon,aman@gmail.com,95,CSE
+Neha Verma,22,Female,88,Delhi,,90,AIML
+Riya Gupta,21,Female,95,Noida,riya@gmail.com,,CSE
+Arjun Mehta,20,Male,78,Delhi,arjun@gmail.com,85,AIML
+Simran Kaur,22,Female,,Gurgaon,simran@gmail.com,91,CSE
+Karan Malhotra,21,Male,82,,karan@gmail.com,87,AIML
+Anjali Sharma,20,Female,91,Delhi,,94,CSE
+Rohit Kumar,,Male,76,Noida,rohit@gmail.com,80,AIML
+Sneha Jain,21,Female,89,Gurgaon,sneha@gmail.com,,CSE
+Vikas Yadav,22,Male,73,Delhi,,86,AIML
+Pooja Verma,20,Female,96,Noida,pooja@gmail.com,93,CSE
+Aditya Singh,21,Male,,Gurgaon,aditya@gmail.com,89,AIML
+Kavya Sharma,22,Female,87,Delhi,kavya@gmail.com,,CSE
